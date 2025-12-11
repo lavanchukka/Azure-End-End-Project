@@ -1,6 +1,6 @@
 # Azure-End-End-Project
 This Project helps in understanding how various azure services &amp; tools are used to complete end-end data projects.
-In this project we will perform follwing tasks:
+In this project we will perform the following tasks:
 1. Move on-premises data to the cloud using Azure Data Factory with a Self-Hosted Integration Runtime(IR).
 2. Integrate data factory with Git for version control.
 3. Use Azure Data Lake Storage Gen2 as a central data repository.
