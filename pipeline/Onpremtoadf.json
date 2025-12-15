@@ -19,7 +19,12 @@
 						"type": "DelimitedTextSource",
 						"storeSettings": {
 							"type": "FileServerReadSettings",
-							"fileListPath": "Data Sources",
+							"recursive": true,
+							"wildcardFolderPath": "\\Data Sources",
+							"wildcardFileName": {
+								"value": ".csv",
+								"type": "Expression"
+							},
 							"enablePartitionDiscovery": false
 						},
 						"formatSettings": {
