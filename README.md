@@ -1,7 +1,7 @@
 # Sales-deals-Azure-End2End-Project
-This Project helps in understanding how various azure services &amp; tools are used to complete end-end data projects.
+This Project helps in understanding how various azure services &amp; tools are used to complete end-end data project.
 
-The sales deals data set is located on-premise, dataset contais 5 csv files containing
+The sales deals data set is located on-premise(from maven analytics), dataset contais 5 csv files containing B2B sales pipeline data from a fictitious company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities.
 
 In this project we will perform the following tasks:
 
