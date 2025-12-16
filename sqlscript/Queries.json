@@ -1,0 +1,17 @@
+{
+	"name": "Queries",
+	"properties": {
+		"content": {
+			"query": "-- find close value >2000\nselect * from dbo.vsales_pipeline1\nwhere close_value >2000\norder by close_value Desc;\n\n--\n",
+			"metadata": {
+				"language": "sql"
+			},
+			"currentConnection": {
+				"databaseName": "sales",
+				"poolName": "Built-in"
+			},
+			"resultLimit": 5000
+		},
+		"type": "SqlQuery"
+	}
+}
