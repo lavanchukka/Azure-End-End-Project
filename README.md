@@ -14,6 +14,7 @@ The sales deals data set is located on-premise(from maven analytics), dataset ha
 5. Perform data cleaning and transformations using Azure Databricks.
 6. Implement security with Azure Key Vault + Databricks Secret Scope to protect sensitive secrets.
 7. Analyze data with Azure Synapse Analytics using SQL.
+8. Connect ADLS to Power BI for visualizations.
    
 # Project detailed steps
 
